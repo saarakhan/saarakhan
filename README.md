@@ -1,5 +1,9 @@
+<div align="center">
+  <img src="https://media.giphy.com/media/zOvBKUUEERdNm/giphy.gif?cid=ecf05e47dmxdlasjsd3ba4gssma9snlicjikjeybjn6m0w7k&ep=v1_gifs_search&rid=giphy.gif&ct=g" alt="Coding GIF" />
+</div>
+
 ## 👋 Hi, I'm Saara Khan:
-<p align="left"> -🔭 I’m working as MERN Stack <br>- 📚 I'm currently learning Typescript, Postgress<br>- ⚡ In my free time I paint and read</p>
+<p align="left"> I’m a passionate third-year Computer Science student with a deep interest in web development, open-source contributions, and collaborative learning...</p>
 
 
 ## 🌐 Socials:
@@ -15,8 +19,6 @@
 ## 🏆 GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=saarakhan&theme=darcula&no-frame=false&no-bg=false&margin-w=4)
 
-### ✍️ Random Dev Quote
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=gruvbox)
 
 ---
 [![](https://visitcount.itsvg.in/api?id=saarakhan&icon=7&color=4)](https://visitcount.itsvg.in)
