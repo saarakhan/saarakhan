@@ -1,6 +1,4 @@
-<div align="center">
-  <img src="https://media.giphy.com/media/zOvBKUUEERdNm/giphy.gif?cid=ecf05e47dmxdlasjsd3ba4gssma9snlicjikjeybjn6m0w7k&ep=v1_gifs_search&rid=giphy.gif&ct=g" alt="Coding GIF" />
-</div>
+
 
 ## 👋 Hi, I'm Saara Khan:
 <p align="left"> I’m a passionate third-year Computer Science student with a deep interest in web development, open-source contributions, and collaborative learning...</p>
@@ -16,8 +14,9 @@
 ![](https://github-readme-streak-stats.herokuapp.com/?user=saarakhan&theme=dark&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=saarakhan&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
-## 🏆 GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=saarakhan&theme=darcula&no-frame=false&no-bg=false&margin-w=4)
+<div align="center">
+  <img src="https://media.giphy.com/media/zOvBKUUEERdNm/giphy.gif?cid=ecf05e47dmxdlasjsd3ba4gssma9snlicjikjeybjn6m0w7k&ep=v1_gifs_search&rid=giphy.gif&ct=g" alt="Coding GIF" />
+</div>
 
 
 ---
