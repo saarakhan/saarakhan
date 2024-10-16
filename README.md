@@ -1,27 +1,93 @@
+# 👋 Hello, World! I'm Saara Khan
 
+<p align="left">
+  I'm a <b>third-year Computer Science student </b> with a passion for web development, open-source contributions, and collaborative learning. My journey in tech is driven by creativity and a desire to build projects that make a difference. Let's connect and share ideas!
+</p>
 
-## 👋 Hi, I'm Saara Khan:
-<p align="left"> I’m a passionate third-year Computer Science student with a deep interest in web development, open-source contributions, and collaborative learning...</p>
+```
+function getCommunityRoles() {
+    const roles = [
+        "Community Member at DataCode" 🌐 ,
+        "Technical Lead at AWS IIPS"☁️ ,
+        "Web Development Lead at GDG IIPS "💻
+    ];
+    return roles[Math.floor(Math.random() * roles.length)];
+}
+console.log("I am proud to be a:", getCommunityRoles());
+```
 
-
-## 🌐 Socials:
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/saarakhan001) [![Medium](https://img.shields.io/badge/Medium-12100E?logo=medium&logoColor=white)](https://medium.com/@khansarah0716) 
-
-# 💻 Tech Stack:
-![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) ![Vercel](https://img.shields.io/badge/vercel-%23000000.svg?style=for-the-badge&logo=vercel&logoColor=white) ![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white) ![Netlify](https://img.shields.io/badge/netlify-%23000000.svg?style=for-the-badge&logo=netlify&logoColor=#00C7B7) ![JWT](https://img.shields.io/badge/JWT-black?style=for-the-badge&logo=JSON%20web%20tokens) ![Express.js](https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB) ![Bootstrap](https://img.shields.io/badge/bootstrap-%238511FA.svg?style=for-the-badge&logo=bootstrap&logoColor=white) ![Vite](https://img.shields.io/badge/vite-%23646CFF.svg?style=for-the-badge&logo=vite&logoColor=white) ![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white) ![Socket.io](https://img.shields.io/badge/Socket.io-black?style=for-the-badge&logo=socket.io&badgeColor=010101) ![Redux](https://img.shields.io/badge/redux-%23593d88.svg?style=for-the-badge&logo=redux&logoColor=white) ![NPM](https://img.shields.io/badge/NPM-%23CB3837.svg?style=for-the-badge&logo=npm&logoColor=white) ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white) ![Nodemon](https://img.shields.io/badge/NODEMON-%23323330.svg?style=for-the-badge&logo=nodemon&logoColor=%BBDEAD) ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white) ![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white) ![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=for-the-badge&logo=Canva&logoColor=white)
-# 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=saarakhan&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
-![](https://github-readme-streak-stats.herokuapp.com/?user=saarakhan&theme=dark&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=saarakhan&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
-
-<div align="center">
-  <img src="https://media.giphy.com/media/zOvBKUUEERdNm/giphy.gif?cid=ecf05e47dmxdlasjsd3ba4gssma9snlicjikjeybjn6m0w7k&ep=v1_gifs_search&rid=giphy.gif&ct=g" alt="Coding GIF" />
-</div>
-
+## 🌟 Find Me Online
+<p align="left">
+  <a href="https://linkedin.com/in/saarakhan001">
+    <img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
+  </a>
+  <a href="https://medium.com/@khansarah0716">
+    <img src="https://img.shields.io/badge/Medium-12100E?logo=medium&logoColor=white" alt="Medium Badge"/>
+  </a>
+</p>
 
 ---
-[![](https://visitcount.itsvg.in/api?id=saarakhan&icon=7&color=4)](https://visitcount.itsvg.in)
 
+## 🛠️ My Tech Toolbox
+<p align="center">
+  <strong>Languages & Tools</strong><br/><br/>
+  <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer">
+    <img src="https://img.icons8.com/color/48/000000/mongodb.png" alt="MongoDB" width="50" height="50"/>
+  </a>
+  <a href="https://expressjs.com/" target="_blank" rel="noreferrer">
+    <img src="https://img.icons8.com/color/48/000000/express-js.png" alt="ExpressJS" width="50" height="50"/>
+  </a>
+  <a href="https://reactjs.org/" target="_blank" rel="noreferrer">
+    <img src="https://img.icons8.com/color/48/000000/react-native.png" alt="ReactJS" width="50" height="50"/>
+  </a>
+  <a href="https://nodejs.org/" target="_blank" rel="noreferrer">
+    <img src="https://img.icons8.com/color/48/000000/nodejs.png" alt="NodeJS" width="50" height="50"/>
+  </a>
+  <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer">
+    <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="Tailwind CSS" width="50" height="50"/>
+  </a>
+  <a href="https://getbootstrap.com/" target="_blank" rel="noreferrer">
+    <img src="https://img.icons8.com/color/48/000000/bootstrap.png" alt="Bootstrap" width="50" height="50"/>
+  </a>
+  <a href="https://git-scm.com/" target="_blank" rel="noreferrer">
+    <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="Git" width="50" height="50"/>
+  </a>
+  <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer">
+    <img src="https://img.icons8.com/color/48/000000/html-5.png" alt="HTML5" width="50" height="50"/>
+  </a>
+  <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer">
+    <img src="https://img.icons8.com/color/48/000000/css3.png" alt="CSS3" width="50" height="50"/>
+  </a>
+  <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer">
+    <img src="https://img.icons8.com/color/48/000000/javascript.png" alt="JavaScript" width="50" height="50"/>
+  </a>
+  <a href="https://www.figma.com/" target="_blank" rel="noreferrer">
+    <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="Figma" width="50" height="50"/>
+  </a>
+  <a href="https://postman.com" target="_blank" rel="noreferrer">
+    <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="Postman" width="50" height="50"/>
+  </a>
+</p>
 
-  
+---
+
+## 📊 My GitHub Journey
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=saarakhan&theme=dark&hide_border=false&include_all_commits=false&count_private=false" alt="GitHub Stats"/>
+  <br/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=saarakhan&theme=dark&hide_border=false" alt="GitHub Streak Stats"/>
+  <br/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=saarakhan&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact" alt="Top Languages"/>
+</p>
+
+---
+## 🌈 Let's Connect!
+I'm always open to new ideas and collaborations! Feel free to reach out:
+- [Email me](mailto:khansarah0716@gmail.com) 📧
+- Follow me on [LinkedIn](https://www.linkedin.com/in/saarakhan001/) 🐦
+
+<p align="center">
+  <img src="https://visitcount.itsvg.in/api?id=saarakhan&icon=7&color=4" alt="Visit Count"/>
+</p>
+
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
