@@ -70,7 +70,9 @@ console.log("I am proud to be a:", getCommunityRoles());
 </p>
 
 ---
+## HactoberFest 2024
 
+[![An image of @saarakhan's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/saarakhan)](https://holopin.io/@saarakhan)
 ## 📊 My GitHub Journey
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=saarakhan&theme=dark&hide_border=false&include_all_commits=false&count_private=false" alt="GitHub Stats"/>
