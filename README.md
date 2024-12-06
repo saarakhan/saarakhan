@@ -4,17 +4,6 @@
   I'm a <b>third-year Computer Science student </b> with a passion for web development, open-source contributions, and collaborative learning. My journey in tech is driven by creativity and a desire to build projects that make a difference. Let's connect and share ideas!
 </p>
 
-```
-function getCommunityRoles() {
-    const roles = [
-        "Community Member at DataCode" 🌐 ,
-        "Technical Lead at AWS IIPS"☁️ ,
-        "Web Development Lead at GDG IIPS "💻
-    ];
-    return roles[Math.floor(Math.random() * roles.length)];
-}
-console.log("I am proud to be a:", getCommunityRoles());
-```
 
 ## 🌟 Find Me Online
 <p align="left">
