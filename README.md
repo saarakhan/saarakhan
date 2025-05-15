@@ -1,5 +1,5 @@
 # 👋 Hello, World! I'm Saara Khan
-
+<p align="center"><img src="https://i.giphy.com/RThN0hOS2GO4M.gif" /></p>
 - 🎓 I’m a **Third-Year Computer Science Student** with a strong foundation in core programming and software development.
 - 🌱 Consistently learning through **open-source contributions (GSSOC & HactoberFest 24)**
 
@@ -94,7 +94,7 @@
 
 
 
-## 🌈 Let's Connect!
+## 🔗 Let's Connect!
 
 I'm always open to new ideas and collaborations! Feel free to reach out:
 
