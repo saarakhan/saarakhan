@@ -1,22 +1,26 @@
 # 👋 Hello, World! I'm Saara Khan
 
-<p align="left">
-  I'm a <b>third-year Computer Science student </b> with a passion for web development, open-source contributions, and collaborative learning. My journey in tech is driven by creativity and a desire to build projects that make a difference. Let's connect and share ideas!
-</p>
+- 🎓 I’m a **Third-Year Computer Science Student** with a strong foundation in core programming and software development.
 
-```
-function getCommunityRoles() {
-    const roles = [
-        "Community Member at DataCode" 🌐 ,
-        "Technical Lead at AWS IIPS"☁️ ,
-        "Web Development Lead at GDG IIPS "💻
-    ];
-    return roles[Math.floor(Math.random() * roles.length)];
-}
-console.log("I am proud to be a:", getCommunityRoles());
-```
+- 💻 Passionate about **Web Development**, with experience building responsive, user-friendly, and impactful web applications.
 
-## 🌟 Find Me Online
+- 🌱 Consistently learning through **open-source contributions** and **collaborative projects** to improve real-world skills.
+
+- 🌐 Contributed to the **UI and frontend development** of the [IIPS College Conference Website](https://iips.edu.in/conference/).
+
+- ☁️ Actively involved in **tech communities**, holding leadership positions:
+  - **Technical Lead** at **AWS IIPS**
+  - **Web Development Lead** at **Google Developer Group (GDG) IIPS**
+  - **Community Member** at **DataCode**
+
+- 🧠 Solved **200+ problems on LeetCode**, showcasing strong **problem-solving** and **data structures & algorithms** skills.
+
+- 💡 My tech journey is driven by **creativity**, **innovation**, and a desire to build projects that create value.
+
+- 🤝 Open to **networking**, **collaborating on projects**, and **learning** with fellow developers!
+
+
+## 🌟 Find Me Online & Connect with me
 
 <p align="left">
   <a href="https://linkedin.com/in/saarakhan001">
@@ -73,18 +77,16 @@ console.log("I am proud to be a:", getCommunityRoles());
 
 ---
 
-<details>
-  <summary>HactoberFest 2024</summary>
 
   [![An image of @saarakhan's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/saarakhan)](https://holopin.io/@saarakhan)
 
-</details>
+
 
 ## 📊 My GitHub Journey
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=saarakhan&theme=dark&hide_border=false&include_all_commits=false&count_private=false" alt="GitHub Stats"/>
-  <br/>
+
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=saarakhan&theme=dark&hide_border=false" alt="GitHub Streak Stats"/>
   <br/>
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=saarakhan&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact" alt="Top Languages"/>
@@ -99,9 +101,7 @@ I'm always open to new ideas and collaborations! Feel free to reach out:
 - [Email me](mailto:khansarah0716@gmail.com) 📧
 - Follow me on [LinkedIn](https://www.linkedin.com/in/saarakhan001/) 🐦
 
-<p align="center">
-  <img src="https://visitcount.itsvg.in/api?id=saarakhan&icon=7&color=4" alt="Visit Count"/>
-</p>
+
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 
