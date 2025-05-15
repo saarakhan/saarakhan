@@ -1,10 +1,7 @@
 # 👋 Hello, World! I'm Saara Khan
 
 - 🎓 I’m a **Third-Year Computer Science Student** with a strong foundation in core programming and software development.
-
-- 💻 Passionate about **Web Development**, with experience building responsive, user-friendly, and impactful web applications.
-
-- 🌱 Consistently learning through **open-source contributions** and **collaborative projects** to improve real-world skills.
+- 🌱 Consistently learning through **open-source contributions (GSSOC & HactoberFest 24)**
 
 - 🌐 Contributed to the **UI and frontend development** of the [IIPS College Conference Website](https://iips.edu.in/conference/).
 
@@ -20,7 +17,7 @@
 - 🤝 Open to **networking**, **collaborating on projects**, and **learning** with fellow developers!
 
 
-## 🌟 Find Me Online & Connect with me
+## 🌟 Find Me Online 
 
 <p align="left">
   <a href="https://linkedin.com/in/saarakhan001">
@@ -77,13 +74,12 @@
 
 ---
 
-
+## HactoberFest 2024 Badges
   [![An image of @saarakhan's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/saarakhan)](https://holopin.io/@saarakhan)
 
 
 
 ## 📊 My GitHub Journey
-
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=saarakhan&theme=dark&hide_border=false&include_all_commits=false&count_private=false" alt="GitHub Stats"/>
 
