@@ -89,11 +89,13 @@
 </p>
 
 ---
+
+<!---
 ### 🧠 My LeetCode Stats
 
 ![LeetCode Badge](https://leetcode-badge-showcase.vercel.app/api?username=Saara_khan&theme=dark&border=no-border&animated=true)
 
-
+-->
 
 ## 🔗 Let's Connect!
 
