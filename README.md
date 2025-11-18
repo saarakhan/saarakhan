@@ -1,7 +1,7 @@
 # 👋 Hello, World! I'm Saara Khan
 <p align="center"><img src="https://i.giphy.com/RThN0hOS2GO4M.gif" /></p>
 
-- 🎓 I’m a **Third-Year Computer Science Student** with a strong foundation in core programming and software development.
+- 🎓 I’m a **Fourth-Year Computer Science Student** with a strong foundation in core programming and software development.
 - 🌱 Consistently learning through **open-source contributions (GSSOC & HactoberFest 24)**
 
 - 🌐 Contributed to the **UI and frontend development** of the [IIPS College Conference Website](https://iips.edu.in/conference/).
