@@ -11,7 +11,7 @@
   - **Web Development Lead** at **Google Developer Group (GDG) IIPS**
   - **Community Member** at **DataCode**
 
-- 🧠 Solved **200+ problems on LeetCode**, showcasing strong **problem-solving** and **data structures & algorithms** skills.
+- 🧠 Solved **300+ problems on LeetCode**, showcasing strong **problem-solving** and **data structures & algorithms** skills.
 
 - 💡 My tech journey is driven by **creativity**, **innovation**, and a desire to build projects that create value.
 
